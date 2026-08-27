@@ -1,4 +1,5 @@
-#qiskit-shor
+# qiskit-shor
+
 Full implementation of Shor factoring algorithm with Qiskit SDK.
 
 Packages versions are specified in [requirements.txt.](#requirements.txt.)

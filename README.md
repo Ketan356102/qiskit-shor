@@ -9,7 +9,7 @@ Installation:
 Open a terminal window
 Clone the repository on your local machine
 Navigate to the cloned directory
-[Optional] Create and activate a virtual environment
+[Optional] (#Create and activate a virtual environment)
 Run pip install -r requirements.txt
 A pedagogical walkthrough on the implementation of the algortihm is given this blog post.
 
